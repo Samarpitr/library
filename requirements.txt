@@ -1,0 +1,11 @@
+fastapi[all]
+alembic
+SQLAlchemy
+psycopg2-binary
+python-dotenv
+sqlmodel
+asyncpg
+httpx
+pytest
+anyio
+trio
